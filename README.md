@@ -92,8 +92,8 @@ OCDesigner supports three interface languages:
 
 ## Screenshots
 
-*Screenshots of the main interface, theme manager, live preview, and backup manager will be added here.*
-
+![OCDesigner - Main Interface](screenshots/main.png)
+  
 ---
 
 ## System Requirements
